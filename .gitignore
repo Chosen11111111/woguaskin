@@ -1,0 +1,5 @@
+# 公开仓库：仅客户下载用的清单，不要提交发布工具、皮肤 ZIP 或解压目录
+*
+!.gitignore
+!skin-manifest.json
+!README.md
