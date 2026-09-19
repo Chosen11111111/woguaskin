@@ -1,25 +1,25 @@
 {
-  "version": "0.0.9",
-  "download_url": "https://download.52015002.xyz/woguaskins/skins0.09.zip",
+  "version": "0.1.0",
+  "download_url": "https://download.52015002.xyz/woguaskins/skins0.10.zip",
   "download_url_backup": [
-    "https://cdn.chosen.cc.cd/woguaskins/skins0.09.zip",
-    "https://v4.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09.zip",
-    "https://cdn.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09.zip",
-    "https://v6.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09.zip",
-    "https://gh-proxy.com/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09.zip",
-    "https://ghproxy.net/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09.zip",
-    "https://ghfast.top/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09.zip"
+    "https://cdn.chosen.cc.cd/woguaskins/skins0.10.zip",
+    "https://v4.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10.zip",
+    "https://cdn.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10.zip",
+    "https://v6.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10.zip",
+    "https://gh-proxy.com/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10.zip",
+    "https://ghproxy.net/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10.zip",
+    "https://ghfast.top/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10.zip"
   ],
-  "size": 143857875,
-  "sha256": "137ac5924020e91520d1c046f7eca8182d9b02c5f4536968c61869145e9d18ed",
-  "release_tag": "skin-v0.0.9",
-  "delta_from": "0.0.8",
-  "delta_download_url": "https://download.52015002.xyz/woguaskins-delta/skins0.09-from-0.08.zip",
+  "size": 131562205,
+  "sha256": "c7eddfadedf64687aca50de31408f8a88bcff96d4b5950ac348ced0bcc727eb9",
+  "release_tag": "skin-v0.1.0",
+  "delta_from": "0.0.9",
+  "delta_download_url": "https://download.52015002.xyz/woguaskins-delta/skins0.10-from-0.09.zip",
   "delta_download_url_backup": [
-    "https://gh-proxy.com/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09-from-0.08.zip",
-    "https://cdn.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09-from-0.08.zip",
-    "https://v4.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.0.9/skins0.09-from-0.08.zip"
+    "https://gh-proxy.com/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10-from-0.09.zip",
+    "https://cdn.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10-from-0.09.zip",
+    "https://v4.gh-proxy.org/https://github.com/Chosen11111111/woguaskin/releases/download/skin-v0.1.0/skins0.10-from-0.09.zip"
   ],
-  "delta_size": 819058,
-  "delta_sha256": "4dbff2035b5d0a2a6d953010fa3d55b9ad9d1a00e2d201b6e7128c36e6886f71"
+  "delta_size": 399278,
+  "delta_sha256": "f0989cab6d71c7b45db0e07d0f84ea3ba235a0a1fea7baa2f96a77218d5861e6"
 }
